@@ -1,0 +1,82 @@
+{
+  "project_info": {
+    "project_number": "235857824113",
+    "project_id": "chtm-firebase",
+    "storage_bucket": "chtm-firebase.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:235857824113:android:39e3d0550b96c381a54ed0",
+        "android_client_info": {
+          "package_name": "flextech.vn.rescue_driver"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "235857824113-pkttfofu21n49th70k94nfoppbl6amd8.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCIrArWlaSficUamlNWi87bxdU79ZESx9A"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "235857824113-pkttfofu21n49th70k94nfoppbl6amd8.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "235857824113-h7i9tqoidrd3s9ep0op2o4e5ef066eq7.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "flextech.rescuer-driver"
+              }
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:235857824113:android:6fcfd4cfe7cc9b83a54ed0",
+        "android_client_info": {
+          "package_name": "vn.flextech.cuuhoxe"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "235857824113-pkttfofu21n49th70k94nfoppbl6amd8.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCIrArWlaSficUamlNWi87bxdU79ZESx9A"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "235857824113-pkttfofu21n49th70k94nfoppbl6amd8.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "235857824113-h7i9tqoidrd3s9ep0op2o4e5ef066eq7.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "flextech.rescuer-driver"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
